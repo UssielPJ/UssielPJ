@@ -52,14 +52,17 @@ Sistema para la gestión de alumnos, docentes y cursos.
 ## Estadísticas
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=UssielPJ&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UssielPJ&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UssielPJ&theme=github_dark" alt="Profile Details" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UssielPJ&theme=github_dark" alt="Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=UssielPJ&theme=github_dark" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=UssielPJ&theme=github_dark" alt="Most Commit Language" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=UssielPJ&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+</p>
 ---
 
 ## Enfoque actual
